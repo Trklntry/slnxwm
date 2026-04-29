@@ -1,12 +1,12 @@
 # SlnxWM
 Selenux's Custom DWM
 
-# Requirements
+# Dependencies
 
 - imlib2
 - xsetroot package ( show clock or other info on bar)
 
-## Optional Requirements
+## Optional Dependencies
 
 - Rofi (Programs Laucher and Logout Menu)
 - NerdFonts (by default, SlnxWM has symbols on Workspaces and Layouts)
@@ -59,7 +59,7 @@ cp ~/.local/share/slnxwm/extra/.xinitrc ~/.config/sx/sxrc
 # Patches
 - functionalgaps
 - baratanyedge
-- modified awesomebar to get works with baratanyedge
+- modified awesomebar to make it work with baratanyedge
 - pertag
 
 # DWM
